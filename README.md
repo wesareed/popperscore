@@ -42,4 +42,4 @@ Popperscores is named after philosopher Karl Popper
 
 ### Tags
 
-Tag versions correspond with [this](https://www.lynda.com/WordPress-tutorials/WordPress-Building-Paid-Membership-Site/468148-2.html) lynda course.
+Tag versions correspond with [this](https://www.lynda.com/WordPress-tutorials/WordPress-Building-Paid-Membership-Site/468148-2.html) lynda course's video number.
