@@ -39,3 +39,7 @@ Icons from FontAwesome: Published under various licenses http://fortawesome.gith
 
 ### Namesake
 Popperscores is named after philosopher Karl Popper
+
+### Tags
+
+Tag versions correspond with [this](https://www.lynda.com/WordPress-tutorials/WordPress-Building-Paid-Membership-Site/468148-2.html) lynda course.
